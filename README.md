@@ -1,4 +1,10 @@
 # PHP-Enhanced-OOP
+- an enhanced sample application using Object-Oriented Programming
+
+### Included:
+- libraries
+- helpers
+- query builder
 
 ### Prerequisites
 - Vanilla-PHP -> https://github.com/wilfredpine/Vanilla-PHP
