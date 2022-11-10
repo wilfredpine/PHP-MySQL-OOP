@@ -2,7 +2,7 @@
 
 ### Prerequisites
 - Vanilla-PHP -> https://github.com/wilfredpine/Vanilla-PHP
-- Basic PHP OOP -> https://github.com/wilfredpine/php-OOP
+- Basic PHP OOP -> https://github.com/wilfredpine/PHP-OOP
 - PHP Database -> https://phpdelusions.net/
 
 ## 
