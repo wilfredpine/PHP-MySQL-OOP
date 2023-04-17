@@ -1,5 +1,8 @@
-# PHP-Enhanced-OOP
+# [PHP-Enhanced-OOP](https://github.com/wilfredpine/pigleth)
 - an enhanced sample application using Object-Oriented Programming
+
+#Sample Project
+- https://github.com/wilfredpine/pigleth
 
 ### Included:
 - libraries
