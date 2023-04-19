@@ -1,4 +1,4 @@
-# [PHP-Enhanced-OOP](https://github.com/wilfredpine/pigleth)
+# [PHP-MySQL-OOP](https://github.com/wilfredpine/pigleth)
 - an enhanced sample application using Object-Oriented Programming
 
 #Sample Project
